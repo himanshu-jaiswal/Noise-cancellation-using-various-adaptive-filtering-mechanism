@@ -1,0 +1,2 @@
+# Noise-cancellation-using-various-adaptive-filtering-mechanism
+Adaptive noise cancellation is an approach used for noise reduction in signal. As received signal is continuously corrupted by noise where both the received signal and noise signal changes continuously, thus there arises a need of adaptive filtering. Adaptive filters adjust their coefficients to minimize an error signal. As most of the portable electronic devices such as cellular phones, personal digital assistants, and hearing aids require digital signal processing for high performance.
